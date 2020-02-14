@@ -1,3 +1,5 @@
+Usage: To start the program, use 'ruby bin/run.rb' in terminal.
+
 Intro
 
 This is our first project at Flatiron School. We are required to use an SQL database, an API, and at least one has-many through relationship. We decided to create a sports betting app, which we dubbed 'Big Money Sports.' Written in Ruby with an SQL database, this is our project.
